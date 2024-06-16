@@ -1,6 +1,8 @@
 ## FinFin
 FinFin is a comprehensive stock analysis tool designed to help users make informed investment decisions. It provides detailed analytics on stocks and presents the information on an intuitive and user-friendly dashboard. With FinFin, you can track stock performance, analyze market trends, and visualize key financial metrics effortlessly.
 
+#### Note: This program is NOT to be used for making ANY financial decision, Losses of income WILL OCCURE. THIS IS ONLY FOR FUN.
+  
 ---
 ### Features
 - Stock Analysis: Get detailed information on various stocks including price, volume, market cap, P/E ratio, and more.
@@ -32,10 +34,10 @@ Prerequisites
 -  Navigate to the alerts tav to set up notifications for specific stock price changes, volume changes, and other market conditions.
 
 ---
-License
+### License
 FinFin is an open source data analytics product. Fell free to use any part! (haha show me what you can do!)
 
-Contact
-For questions, feedback, or support, please contact us at darren.nov@gmail.com.
+### Contact
+For questions, feedback, or support, please contact the team at https://www.linkedin.com/in/darrenafisher/.
 
-Thank you for using FinFin!
+### Thank you for using FinFin!
