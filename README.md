@@ -18,10 +18,13 @@ THIS IS ONLY FOR FUN.
 
 ---
 ### Installation
-Prerequisites
-- Latest Python
-- Clone the repo and install dependencies
-- Add API keys into data.json
+
+1. Latest Python downloaded
+2. Clone the repo
+3. Add API/AWS keys into data.json
+4. Run main.py to see what dependencies you are missing
+5. Download dependencies
+6. Run main.py 
 
 ---
 ### Usage
